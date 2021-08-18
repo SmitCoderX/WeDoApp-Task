@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">WedoApps-Task</string>
+    <string name="add_student">Add Student</string>
+    <string name="student_name">Student Name</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="student_s_list">Student\'s List</string>
+    <string name="text">Add Student Details from the Button Below</string>
+    <string name="class_name">Class Name</string>
+    <string name="roll_no">Roll No</string>
+    <string name="mobile_number">Mobile Number</string>
+    <string name="mother_s_name">Mother\'s Name</string>
+    <string name="father_s_name">Father\'s Name</string>
+    <string name="submit">Submit</string>
+    <string name="update_student">Update Student</string>
+</resources>
