@@ -28,8 +28,8 @@ class SaveFragment : Fragment(R.layout.fragment_save) {
                     etClassName.text.toString(),
                     etRollNo.text.toString(),
                     etMobile.text.toString(),
-                    etMotherName.text.toString(),
-                    etFatherName.text.toString()
+                    etFatherName.text.toString(),
+                    etMotherName.text.toString()
                 )
                 viewModel.saveStudent(student)
                 findNavController().popBackStack()
